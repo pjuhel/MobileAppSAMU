@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MobileAppSAMU</string>
+    <string name="status1">status1</string>
+    <string name="status2">status2</string>
+    <string name="status3">status3</string>
+    <string name="status4">status4</string>
+    <string name="url">http://www.google.com</string>
+
 </resources>
